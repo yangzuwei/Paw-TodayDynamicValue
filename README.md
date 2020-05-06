@@ -1,0 +1,1 @@
+return today.Its format is "yyyymmdd".

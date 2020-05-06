@@ -10,7 +10,7 @@ var Today = function() {
     }
 }
 // set the extension identifier (must be same as the directory name)
-Today.identifier = "com.luckymarmot.PawExtensions.TodayDynamicValue";
+Today.identifier = "com.yang.PawExtensions.TodayDynamicValue";
 // give a display name to your Code Generator
 Today.title = "Today";
 
